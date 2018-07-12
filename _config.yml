@@ -6,7 +6,7 @@
 name: Leonard Ata
 
 # Short bio or description (displayed in the header)
-description: Sofware Developer interested in web technologies and iOS
+description: Sofware Developer interested in web technologies and iOS. I write about both and things that interest me generally.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -40,6 +40,7 @@ disqus:
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+http://leonardata.github.io
 # Used for Sitemap.xml and your RSS feed
 url:
 
